@@ -1,0 +1,33 @@
+.item {
+    margin: 10px;
+    width: 60px;
+    background: #bbffbb;
+    color: #282c34;
+    outline: none
+}
+
+.active {
+
+    background: yellow;
+}
+
+.meti {
+    margin: 10px;
+    width: 100px;
+}
+
+.affair {
+    display: flex;
+}
+
+.high {
+    color: darkorchid;
+}
+
+.middle {
+    color: indianred;
+}
+
+.low {
+    color: limegreen;
+}
