@@ -7,6 +7,7 @@ function Clock() {
     const [show, setShow] = useState<boolean>(false)
 
     const stop = () => {
+        console.log("asd")
         // stop
     }
     const start = () => {
